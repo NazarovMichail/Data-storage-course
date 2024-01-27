@@ -19,4 +19,4 @@
 
 ## Результат
 
-:scroll: [Jupyter notebook]()
+:scroll: [Jupyter notebook](https://github.com/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb)
