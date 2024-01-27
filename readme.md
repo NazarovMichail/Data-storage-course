@@ -20,6 +20,8 @@
 
 ## Результат
 
-<a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb">
+- [Open in Jupyter notebook](https://github.com/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb)
+
+- <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
