@@ -16,12 +16,12 @@
 - $\boxed{2}$ Нормализация базы данных
 - $\boxed{3}$ Создание таблиц базы данных
 - $\boxed{4}$ Загрузка данных
-  - [Файлы для загрузки данных](https://github.com/NazarovMichail/Data-storage-course/tree/master/data/import%20data)
+  - [Файлы для загрузки данных](https://github.com/NazarovMichail/Data-storage-course/tree/master/Normalization/data/import%20data)
 
 ## Результат
 
-- [Open in Jupyter notebook](https://github.com/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb)
+- [Open in Jupyter notebook](https://github.com/NazarovMichail/Data-storage-course/blob/master/Normalization/Normalization%20PostgreSQL.ipynb)
 
-- <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Data-storage-course/blob/master/Normalization%20PostgreSQL.ipynb">
+- <a target="_blank" href="https://colab.research.google.com/github/NazarovMichail/Data-storage-course/blob/master/Normalization/Normalization%20PostgreSQL.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
