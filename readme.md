@@ -5,5 +5,5 @@
 |Содержание | 
 |:--|
 |[Создание и нормализация базы данных](https://github.com/NazarovMichail/Data-storage-course/tree/master/Normalization) |
-| [Операторы PostgreSQL]()| 
+| [Операторы PostgreSQL](https://github.com/NazarovMichail/Data-storage-course/tree/master/Operators)| 
 
