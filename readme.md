@@ -1,7 +1,6 @@
 # `Системы хранения и обработки данных`
 
 <img src='img/pglogo.png' width=200>
-
 <img src='img/mongologo.png' width=200>
 
 |Конспекты | Практика|
